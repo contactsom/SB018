@@ -1,0 +1,7 @@
+# String is the Combination of character
+aboutCompany="Simplilearn is a San Francisco-based online education company that provides training and professional certification courses for working professionals. " \
+             "It focuses on digital skills and emerging technologies, offering courses in areas like data science, AI, cybersecurity, and cloud computing, among others. " \
+             "The company is a global provider, helping millions of individuals and businesses acquire the skills needed for the digital economy. " \
+             "Simplilearn is known for its work-ready training programs, often designed in collaboration with universities, corporations, and industry bodies. "
+print(aboutCompany)
+print(type(aboutCompany))
