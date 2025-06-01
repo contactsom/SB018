@@ -1,0 +1,12 @@
+
+
+studentNameRoll={
+    1:"subrata",
+    2:"Ausama",
+    3:"Vikash",
+    4:"Gaurav"
+}
+print(studentNameRoll[subrata])
+print(studentNameRoll[Ausama])
+print(studentNameRoll[Vikash])
+print(studentNameRoll[Gaurav])

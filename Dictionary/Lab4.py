@@ -1,0 +1,10 @@
+studentNameRoll={
+    1:"subrata",
+    2:"Ausama",
+    3:"Vikash",
+    4:"Gaurav"
+}
+print(studentNameRoll[1])
+print(studentNameRoll[2])
+print(studentNameRoll[3])
+print(studentNameRoll[4])
