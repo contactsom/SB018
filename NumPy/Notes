@@ -1,0 +1,12 @@
+How to install NumPy
+
+Use a Virtual Environment
+
+Step-1 : Create a virtual environment:
+         python3 -m venv myenv
+
+Step-2 : Activate it:
+         source myenv/bin/activate
+
+Step-3 : Install numpy:
+         pip install numpy
